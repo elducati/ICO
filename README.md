@@ -10,4 +10,6 @@ Every Crypto Dev NFT holder should get 10 tokens for free but they would have to
 
 The price of one CD at the time of ICO should be 0.001 ether
 
-There should be a website which users can visit for the ICO.
+There should be a website which users can visit for the ICO. 
+
+https://ico-sigma.vercel.app/
